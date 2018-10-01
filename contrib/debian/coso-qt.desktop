@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=COSO
+Comment=COSO P2P Cryptocurrency
+Comment[fr]=COSO, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=COSO, eşten eşe kriptografik sanal para birimi
+Exec=coso-qt %u
+Terminal=false
+Type=Application
+Icon=coso128
+MimeType=x-scheme-handler/coso;
+Categories=Office;Finance;
